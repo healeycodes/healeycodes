@@ -1,4 +1,4 @@
- 🐦 &nbsp;[Twitter](https://twitter.com/healeycodes)&nbsp;  ✍🏻 &nbsp;[Blog](https://healeycodes.com)&nbsp;  📬 &nbsp;[Newsletter](https://buttondown.email/healeycodes)
+ 🐦 &nbsp;[Twitter](https://twitter.com/healeycodes)&nbsp;&nbsp;  ✍🏻 &nbsp;[Blog](https://healeycodes.com)&nbsp;&nbsp; 📬 &nbsp;[Newsletter](https://buttondown.email/healeycodes)
 
 I'm a software engineer and I enjoy teaching people about code!
 
