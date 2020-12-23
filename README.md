@@ -1,7 +1,7 @@
  🐦 &nbsp;[Twitter](https://twitter.com/healeycodes)&nbsp;&nbsp;  ✍🏻 &nbsp;[Blog](https://healeycodes.com)&nbsp;&nbsp; 📬 &nbsp;[Newsletter](https://buttondown.email/healeycodes)
 
-Recent blog posts:
+My most popular blog posts:
 
-- [Writing Software for an Among Us League](https://healeycodes.com/writing-software-for-an-among-us-league/)
-- [Boids in WebAssembly Using Go](https://healeycodes.com/boids-flocking-simulation/)
+- [Building My Own Chess Engine](https://healeycodes.com/building-my-own-chess-engine/)
 - [Creating Randomness Without Math.random](https://healeycodes.com/creating-randomness/)
+- [Boids in WebAssembly Using Go](https://healeycodes.com/boids-flocking-simulation/)
