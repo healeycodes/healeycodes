@@ -1,4 +1,4 @@
- 🐦 &nbsp;[Twitter](https://twitter.com/healeycodes)&nbsp;&nbsp;  ✍🏻 &nbsp;[Blog](https://healeycodes.com)&nbsp;&nbsp; 📬 &nbsp;[Newsletter](https://buttondown.email/healeycodes)
+ 🐦 &nbsp;[Twitter](https://twitter.com/healeycodes)&nbsp;&nbsp;  ✍🏻 &nbsp;[Blog](https://healeycodes.com)&nbsp;&nbsp; 📬 &nbsp;[Newsletter](https://buttondown.email/healeycodes) 📽 &nbsp;[Twitch](https://www.twitch.tv/healeycodes)
 
 My most popular blog posts:
 
