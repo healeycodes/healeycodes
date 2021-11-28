@@ -1,5 +1,5 @@
 Hi! I write about software on my [personal website](https://healeycodes.com/) :)
 
-- 🕹️ &nbsp;[DOOM Rendered via Checkboxes](https://healeycodes.com/doom-rendered-via-checkboxes)
-- ⛳ &nbsp;[Creating the Golfcart Programming Language](https://healeycodes.com/creating-the-golfcart-programming-language) 
-- ♟️ &nbsp;[Building My Own Chess Engine](https://healeycodes.com/building-my-own-chess-engine)
+- :santa: &nbsp;[Designing a Programming Language for Advent of Code](https://healeycodes.com/designing-a-programming-language-for-advent-of-code)
+- :chess_pawn: &nbsp;[Building My Own Chess Engine](https://healeycodes.com/building-my-own-chess-engine)
+- :zap: &nbsp;[WebAssembly Search Tools for Static Sites](https://healeycodes.com/webassembly-search-tools-for-static-websites)
