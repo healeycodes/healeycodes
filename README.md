@@ -1,5 +1,5 @@
 Hi! I write about software on my [personal website](https://healeycodes.com/) :)
 
-- :santa: &nbsp;[Designing a Programming Language for Advent of Code](https://healeycodes.com/designing-a-programming-language-for-advent-of-code)
+- 🐈 &nbsp;[When I'm Sad My Computer Sends Me Cats](https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat)
 - :chess_pawn: &nbsp;[Building My Own Chess Engine](https://healeycodes.com/building-my-own-chess-engine)
-- :mag: &nbsp;[WebAssembly Search Tools for Static Sites](https://healeycodes.com/webassembly-search-tools-for-static-websites)
+- 🗺️ &nbsp;[GeoGuessing with Deep Learning](https://healeycodes.com/geoguessing-with-deep-learning)
