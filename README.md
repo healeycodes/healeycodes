@@ -3,4 +3,4 @@
 Here are some recent posts:
 - [My Time At The Recurse Center](https://healeycodes.com/my-time-at-the-recurse-center)
 - [Profiling and Optimizing an Interpreter](https://healeycodes.com/profiling-and-optimizing-an-interpreter)
-- [Making a Text Editor with a Game Engine](https://healeycodes.com/making-a-text-editor-with-a-game-engine)
+- [Sandboxing JavaScript Code](https://healeycodes.com/sandboxing-javascript-code)
