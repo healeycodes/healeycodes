@@ -1,4 +1,4 @@
-👋 I write about software on my [personal website](https://healeycodes.com/).
+👋 I write about software on [my personal website](https://healeycodes.com/).
 
 Here are some recent posts:
 - [A Custom WebAssembly Compiler](https://healeycodes.com/a-custom-webassembly-compiler)
