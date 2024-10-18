@@ -1,6 +1,4 @@
-I write about software on [my personal website](https://healeycodes.com/).
-
-Recent posts:
-- [Generating Mazes](https://healeycodes.com/generating-mazes)
+Recent blog posts:
+- [Compiling Lisp to Bytecode and Running It](https://healeycodes.com/compiling-lisp-to-bytecode-and-running-it)
 - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 - [Lisp Compiler Optimizations](https://healeycodes.com/lisp-compiler-optimizations)
