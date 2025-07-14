@@ -1,4 +1,4 @@
 Recent blog posts:
+- [Filesystem Backed by an LLM](https://healeycodes.com/filesystem-backed-by-an-llm)
 - [Installing NPM Packages Very Quickly](https://healeycodes.com/installing-npm-packages-very-quickly)
-- [Compiling Lisp to Bytecode and Running It](https://healeycodes.com/compiling-lisp-to-bytecode-and-running-it)
 - [Lisp Compiler Optimizations](https://healeycodes.com/lisp-compiler-optimizations)
