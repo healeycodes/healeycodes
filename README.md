@@ -1,4 +1,4 @@
 Recent blog posts:
-- [Filesystem Backed by an LLM](https://healeycodes.com/filesystem-backed-by-an-llm)
+- [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
 - [Installing NPM Packages Very Quickly](https://healeycodes.com/installing-npm-packages-very-quickly)
-- [Lisp Compiler Optimizations](https://healeycodes.com/lisp-compiler-optimizations)
+- [Solving Queuedle](https://healeycodes.com/solving-queuedle)
