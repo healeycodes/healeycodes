@@ -1,4 +1,4 @@
 Recent blog posts:
-- [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
-- [Optimizing My Disk Usage Program](https://healeycodes.com/optimizing-my-disk-usage-program)
+- [Icepath: a 2D Programming Language](https://healeycodes.com/icepath-a-2d-programming-language)
+- [Counting Words at SIMD Speed](https://healeycodes.com/counting-words-at-simd-speed)
 - [Visualizing Chess Bitboards](https://healeycodes.com/visualizing-chess-bitboards)
