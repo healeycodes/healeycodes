@@ -1,4 +1,4 @@
 Recent blog posts:
-- [Icepath: a 2D Programming Language](https://healeycodes.com/icepath-a-2d-programming-language)
+- [Building a Shell](https://healeycodes.com/building-a-shell)
 - [Counting Words at SIMD Speed](https://healeycodes.com/counting-words-at-simd-speed)
-- [Visualizing Chess Bitboards](https://healeycodes.com/visualizing-chess-bitboards)
+- [Optimizing My Disk Usage Program](https://healeycodes.com/optimizing-my-disk-usage-program)
